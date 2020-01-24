@@ -14,9 +14,9 @@ const SecondPage = () => (
   Please enjoy the book and share your feedback on my website. the comment section will be active pretty soon.
 </p>  
   <br>
-  
+  <div>
   <a href="https://manav.myty.in/myty-ebook.pdf">Download</a>
-   
+   </div>
   
   <Link to="/">Go back to the homepage</Link>
   </Layout>
