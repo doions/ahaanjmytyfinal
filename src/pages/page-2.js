@@ -13,9 +13,11 @@ const SecondPage = () => (
   the book has an interesting conversation with an internet bot and kids.
   Please enjoy the book and share your feedback on my website. the comment section will be active pretty soon.
   
-  <Link to="">Download</Link>
+  <br>
+  
+  <Link to="https://manav.myty.in/myty-ebook.pdf">Download</Link>
   </p>
-    <Link to="https://manav.myty.in/myty-ebook.pdf">Go back to the homepage</Link>
+    <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
 
