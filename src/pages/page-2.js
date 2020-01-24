@@ -15,7 +15,7 @@ const SecondPage = () => (
   
   <Link to="">Download</Link>
   </p>
-    <Link to="/">Go back to the homepage</Link>
+    <Link to="https://manav.myty.in/myty-ebook.pdf">Go back to the homepage</Link>
   </Layout>
 )
 
