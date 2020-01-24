@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    title: `Ahaan Jain myty link`,
+    title: `Ahaan Jain`,
     description: `This is the identity website for ahaan jain, a six year old boy from mumbai`,
     author: `@anuragjain`,
   },
