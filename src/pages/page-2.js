@@ -7,8 +7,14 @@ import SEO from "../components/seo"
 const SecondPage = () => (
   <Layout>
     <SEO title="Page two" />
-    <h1>Hi from the second page</h1>
-    <p>Welcome to page 2</p>
+    <h1>Hi, Welcome to the ebook download page.</h1>
+  <p>
+  Here! I am presenting you a free ebook to all of you about internet safety for kids.
+  the book has an interesting conversation with an internet bot and kids.
+  Please enjoy the book and share your feedback on my website. the comment section will be active pretty soon.
+  
+  <Link to="">Download</Link>
+  </p>
     <Link to="/">Go back to the homepage</Link>
   </Layout>
 )
