@@ -12,7 +12,10 @@ const IndexPage = () => (
           <Image />
 
     <p>Welcome to my new website</p>
-    <p>I am a six-year-old boy studying at witty international school. I aspire to become an entrepreneur and a tech expert in the future. I enjoy watching peep and chirp animation, Ryan toy review, pink panther. My favourite activity is playing badminton, football and cricket with my friends.</p>
+    <p>I am a six-year-old boy studying at witty international school. I aspire to become an entrepreneur and a tech expert in the future. I enjoy watching peep and chirp animation, Ryan toy review, pink panther. My favourite activity is playing badminton, football, chess and cricket with my friends.
+      I enjoy playing music too on my keyboard.
+
+    </p>
     <p>I live in Malad (West), Mumbai.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
     </div>
