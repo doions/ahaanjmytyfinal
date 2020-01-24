@@ -8,9 +8,10 @@ import SEO from "../components/seo"
 const IndexPage = () => (
   <Layout>
     <SEO title="Home" />
-    <h1>Hi people</h1>
-    <p>Welcome to your new Gatsby site.</p>
-    <p>Now go build something great.</p>
+    <h1>Hi. I'm Ahaan!</h1>
+    <p>Welcome to my new website</p>
+    <p>I am a six-year-old boy studying at witty international school. I aspire to become an entrepreneur and a tech expert in the future. I enjoy watching peep and chirp animation, Ryan toy review, pink panther. My favourite activity is playing badminton, football and cricket with my friends.</p>
+    <p>I live in Malad (West), Mumbai.</p>
     <div style={{ maxWidth: `300px`, marginBottom: `1.45rem` }}>
       <Image />
     </div>
